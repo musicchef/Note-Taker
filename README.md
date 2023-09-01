@@ -60,4 +60,3 @@ Contributions are welcome! If you find a bug or have suggestions for improvement
 If you have any questions about the project, feel free to reach out:
 
 - GitHub: [MusicChef](https://github.com/musicchef)
-- Email: lhamous.hamza@gmail.com
