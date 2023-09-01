@@ -2,8 +2,6 @@
 
 The Note Taker Application is a web-based tool that allows users to write, save, and organize notes. This application utilizes an Express.js back end to manage note data, which is stored in a JSON file. With the ability to create, view, and delete notes, the Note Taker Application assists users in maintaining an organized record of their thoughts and tasks.
 
-![Note Taker Demo](./demo.gif) <!-- will add later after completion -->
-
 ## Table of Contents
 
 - [Installation](#installation)
